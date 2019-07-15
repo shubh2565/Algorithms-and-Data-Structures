@@ -9,3 +9,6 @@ Most of the codes and problems in this repository are inspired from the below me
 * Programming Pearls by Jon Bentley
 * The Algorithm Design Manual by Steven Skiena
 
+Following folders contains the implemented codes:
+* [Search Algorithms](https://github.com/shubh2565/Algorithms-and-Data-Structures/tree/master/seach%20algorithms)
+
