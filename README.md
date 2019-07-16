@@ -11,4 +11,4 @@ Most of the codes and problems in this repository are inspired from the below me
 
 Following folders contain the implemented codes:
 * [Search Algorithms](https://github.com/shubh2565/Algorithms-and-Data-Structures/tree/master/seach%20algorithms)
-
+* [Sorting Algorithms](https://github.com/shubh2565/Algorithms-and-Data-Structures/tree/master/sorting%20algorithms)
